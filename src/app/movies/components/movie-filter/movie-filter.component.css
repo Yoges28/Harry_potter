@@ -1,0 +1,15 @@
+.navbar .container{
+  height: 10%;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+img{
+  height: auto;
+  width: 50px;
+}
+
+input {
+  display: flex;
+}

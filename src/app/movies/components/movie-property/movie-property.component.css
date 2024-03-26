@@ -1,0 +1,12 @@
+.movie-card {
+  margin: 1%;
+  padding: 1%;
+  background-color: hex(#f8f9fa);
+  border-radius: 8px;
+}
+
+.movie-card button{
+  border-radius: 9px;
+  background-color: grey;
+  color: black;
+}
